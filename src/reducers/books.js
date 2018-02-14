@@ -1,8 +1,8 @@
 export default function() {
   return [
     { title: 'Antifragile',  pages: 101 },
-    { title: 'All Quiet On The Western Front', pages: 15 },
-    { title: 'The God Delusion', pages: 56 },
-    { title: 'The Average American Male', pages: 26}
+    { title: 'Children of Time', pages: 609 },
+    { title: 'Infinite Jest', pages: 1079 },
+    { title: 'House of Leaves', pages: 709}
   ]
 }
